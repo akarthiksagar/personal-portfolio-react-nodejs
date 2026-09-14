@@ -135,9 +135,6 @@ Content-Type: application/json
 }
 ```
 
-## 📄 License
-
-This project is intended to serve as a personal portfolio and demonstration of software engineering work.
 
 ---
 
